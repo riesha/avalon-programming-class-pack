@@ -1,0 +1,47 @@
+{
+  "name": "avalon-programming-class-pack",
+  "displayName": "Avalon programming class pack",
+  "description": "Contains extensions to be used in the avalon programming class",
+  "repository": "https://github.com/riesha/avalon-programming-class-pack",
+  "icon": "icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "cschlosser.doxdocgen",
+    "davidfreer.go-to-character-position",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "file-icons.file-icons",
+    "GitHub.vscode-pull-request-github",
+    "GraphQL.vscode-graphql",
+    "heybourn.headwind",
+    "humao.rest-client",
+    "michelemelluso.code-beautifier",
+    "mkaufman.HTMLHint",
+    "ms-azuretools.vscode-docker",
+    "ms-python.python",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-audio",
+    "pranaygp.vscode-css-peek",
+    "redhat.vscode-yaml",
+    "ritwickdey.LiveServer",
+    "sidthesloth.html5-boilerplate",
+    "steoates.autoimport",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "yatki.vscode-surround",
+    "Zignd.html-css-class-completion"
+  ]
+}
